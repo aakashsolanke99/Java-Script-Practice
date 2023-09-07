@@ -1,0 +1,26 @@
+"use strict" ; // treat all JS code as newer version
+
+// alert(3+2)  // not used we are using node js, not browser
+ 
+
+ console.log(33+33); console.log("aaaksh");
+
+
+ let name="aakash"
+ let age=21
+ let isLoggedIn=false
+
+
+// number =>  to power 53
+// bigInt
+//string => ""
+// boolean => true or falase
+// null => standalone value
+// undefine => 
+// symbol => unique
+
+//  null is object 
+// object 
+
+console.log(typeof "aakash");
+console.log(typeof null);
